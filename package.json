@@ -14,7 +14,7 @@
   "author": "Yassine Qoraiche",
   "license": "MIT",
   "dependencies": {
-    "bootstrap": "^4.2.1",
+    "bootstrap": "^5.0.0",
     "jquery": ">=3.4.0",
     "popper.js": "^1.14.4"
   },
